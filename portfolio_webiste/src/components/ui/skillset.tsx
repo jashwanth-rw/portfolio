@@ -19,7 +19,7 @@ const CustomIcon = ({ src, alt }: { src: string; alt: string }) => (
 
 export default function SkillSet() {
   return (
-    <div className="min-h-screen bg-gray-900 text-white p-8">
+    <div className="min-h-screen bg-gray-900 px-9 text-white p-8">
       <h1 className="text-3xl font-bold mb-8">Technologies</h1>
       
       <section className="mb-8">
